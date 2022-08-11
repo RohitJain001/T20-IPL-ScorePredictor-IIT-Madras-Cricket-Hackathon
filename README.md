@@ -1,4 +1,5 @@
-# T20-IPL-ScorePredictor
+# T20-IPL-ScorePredictor 2021 Real Time
+## IIT Madras Cricket Hackathon
 
 Predicting scores of IPL Matches after 6 overs,
 Dataset can be downloaded from cricsheet.org website (IPL dataset 2008 - 2020)
